@@ -7,7 +7,7 @@ The paper has been accepted by "IEEE Transactions on Geoscience and Remote Sensi
 [Unsupervised Multi-Modal Remote Sensing Image Registration via Domain Adaptation](https://ieeexplore.ieee.org/document/10320402)
 
 ## Cite
-If our work has been helpful to you, please cite our it.
+If our work has been helpful to you, please cite it.
 
 ```@ARTICLE{10320402,
   author={Shi, Lukui and Zhao, Ruiyun and Pan, Bin and Zou, Zhengxia and Shi, Zhenwei},
